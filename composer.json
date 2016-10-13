@@ -1,0 +1,14 @@
+{
+    "name": "atkhung/demo",
+    "description": "EGD hung",
+    "license": "license",
+    "keywords": [
+        "framework",
+        "demo"
+    ],
+    "homepage": "http://hung.com/",
+    "require": {
+        "php": ">=5.3.3",
+        "atkhung/demo": "1.0",
+    }
+}
