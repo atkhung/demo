@@ -1,12 +1,13 @@
 {
     "name": "atkhung/demo",
     "description": "EGD hung",
+    "type": "library",
     "license": "license",
     "keywords": [
         "framework",
-        "demo"
+        "zf2",
     ],
-    "homepage": "http://hung.com/",
+    "homepage": "https://github.com/atkhung/demo",
     "require": {
         "php": ">=5.3.3"
     }
